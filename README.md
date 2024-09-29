@@ -1,16 +1,32 @@
-# Project Name
+# Building Quiz
 
-> One paragraph statement about the project.
+> This is a fcc project which will built a quiz form to learn accessibilty
 
-![screenshot](./app_screenshot.png)
+![s09-Builiding-Quiz](image-1.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Html elements,
+  - `label`
+  - `section`
+  - `footer`
+  - `header`
+  - `nav`
+  - `ul` `button`
+  - `div`
+- CSS,
+  - `display`
+  - `padding`,
+  - `justify-content`
+  - `align-items`
+  - `background-color`
+
+Linters
+
+- [prettier](https://prettier.io/)
+- [stylelint](https://stylelint.io/)
 
 ## Live Demo
 
@@ -21,7 +37,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/OMOTAYO05/html-css-template.git
 
 ```
 
