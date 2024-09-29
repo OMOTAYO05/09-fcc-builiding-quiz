@@ -1,8 +1,8 @@
 # Building Quiz
 
-> One paragraph statement about the project.
+> This is a fcc project which will built a quiz form to learn accessibilty
 
-![screenshot](./app_screenshot.png)
+![s09-Builiding-Quiz](image-1.png)
 
 Additional description of the project and its features.
 
